@@ -12,7 +12,7 @@ Refer to USING_HDF5_CMake.txt. In particular, set HDF5_PLUGIN_PATH and HDF5_ROOT
 ### HDF Linux support
 Many distributions also contains HDF5 package. For example in ubuntu, HDF5 can be installed with
 ```bash
-sudo apt-get install libhdf5-serial-dev
+sudo apt-get install libhdf5-dev
 ```
 
 ## Building example
